@@ -14,6 +14,7 @@ public class Sum {
 
     //メソッド(処理のブロック)
     //メソッド名：outputSum
+    //ちょっと遊んでみる
     void outputSum(int numberA,int numberB){
         //System.out.println(numberA + numberB);
         System.out.println(sum(numberA,numberB));

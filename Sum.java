@@ -5,7 +5,8 @@ public class Sum {
         Sum sum = new Sum();
         sum.execute();
     }
-
+//ブランチ1の仕業
+//ブランチ1の仕業２
     void execute() {
         outputSum(1,2);
         outputSum(2,22);
